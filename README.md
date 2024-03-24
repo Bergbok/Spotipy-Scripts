@@ -1,10 +1,7 @@
 # Spotipy Scripts
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/117038620?s=200&v=4" width="125px"/></img>
-</p>
-<p align="center">
-  <i>Made using <a href="https://github.com/spotipy-dev/spotipy">Spotipy</a></i>
+  <a href="https://github.com/spotipy-dev/spotipy"><img src="https://avatars.githubusercontent.com/u/117038620?s=200&v=4" width="125px"/></img></a>
 </p>
 
 ## save_artist_discography.py
